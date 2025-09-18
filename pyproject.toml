@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "publish-mcp-server"
-version = "1.0.0"
+version = "0.1.0"
 description = "An MCP server that helps users publish their MCP servers to the registry"
 authors = [
     {name = "Marlene Mhangami", email = "marlenemhangami@gmail.com"},
