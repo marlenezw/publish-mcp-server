@@ -1,6 +1,6 @@
 """Publish MCP Server - A tool to help publish MCP servers to the registry."""
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __author__ = "Marlene Mhangami"
 __email__ = "marlenemhangami@gmail.com"
 
