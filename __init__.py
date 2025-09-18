@@ -1,8 +1,8 @@
 """Publish MCP Server - A tool to help publish MCP servers to the registry."""
 
-__version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__version__ = "0.1.1"
+__author__ = "Marlene Mhangami"
+__email__ = "marlenemhangami@gmail.com"
 
 from .publish_mcp_server import mcp, main
 
